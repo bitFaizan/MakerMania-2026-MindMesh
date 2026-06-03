@@ -12,7 +12,7 @@
 
 ---
 
-# 1. Team Identity
+# 1. Team Identity 
 
 ## 1.1 Team Name and Photo
 
@@ -20,11 +20,11 @@
 
 ## 1.2 Team Members
 
-| Name | Role | Skills |
-| ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+| Name           | Role | Skills |
+| ----           | ---- | ------ |
+Faizan Rabbani   |      |        |
+|Shalaka Sonje   |      |        |
+|Pavitra Patil   |      |        |
 
 ---
 
