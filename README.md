@@ -29,7 +29,7 @@ Faizan Rabbani   |      |        |
 
 ---
 ## Useless Product
-  <img width="1600" height="900" alt="Group photo" src="https://github.com/user-attachments/assets/9a2d4411-8bb9-4e7a-a2ab-55e15c7ae99d" />
+https://www.youtube.com/watch?v=37OpgQ1Qc6c
 
 
 # 2. Problem Discovery
