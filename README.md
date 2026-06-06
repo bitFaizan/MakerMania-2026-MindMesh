@@ -15,6 +15,7 @@
 # 1. Team Identity 
 
 ## 1.1 Team Name and Photo
+<img width="1600" height="900" alt="Group photo" src="https://github.com/user-attachments/assets/1b1dbdaa-fc0c-4990-8285-51c80e2aa52b" />
 
 ---
 
@@ -27,6 +28,9 @@ Faizan Rabbani   |      |        |
 |Pavitra Patil   |      |        |
 
 ---
+## Useless Product
+  <img width="1600" height="900" alt="Group photo" src="https://github.com/user-attachments/assets/9a2d4411-8bb9-4e7a-a2ab-55e15c7ae99d" />
+
 
 # 2. Problem Discovery
 
