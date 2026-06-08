@@ -21,11 +21,11 @@
 
 ## 1.2 Team Members
 
-| Name           | Role | Skills |
-|----------------|------|--------|
-| Faizan Rabbani | | Embedded Systems (ESP32, ESP32-S3, RPi Pico, Arduino) · FreeRTOS · ESP-NOW · Bluetooth Classic & LE · Wi-Fi · Sensor Interfacing · PCB Design (KiCad) · 3D Design & Printing (Fusion 360) · Laser Cutting · Hardware Debugging & Testing |
-| Shalaka Sonje | | |
-| Pavitra Patil | | ESP32 / Arduino Fundamentals · Sensor Interfacing · LaserCAD & Laser Cutting · 3D Modelling & Printing |
+| Name | Role | Skills |
+|------|------|--------|
+| Faizan&nbsp;Rabbani | | Embedded Systems (ESP32, ESP32-S3, RPi Pico, Arduino) · FreeRTOS · ESP-NOW · Bluetooth Classic & LE · Wi-Fi · Sensor Interfacing · PCB Design (KiCad) · 3D Design & Printing (Fusion 360) · Laser Cutting · Hardware Debugging & Testing |
+| Shalaka&nbsp;Sonje | | |
+| Pavitra&nbsp;Patil | | ESP32 / Arduino Fundamentals · Sensor Interfacing · LaserCAD & Laser Cutting · 3D Modelling & Printing |
 
 ---
 ## Useless Product
