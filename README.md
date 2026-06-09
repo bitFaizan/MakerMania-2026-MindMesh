@@ -31,6 +31,8 @@
 ## Useless Product
 https://www.youtube.com/watch?v=37OpgQ1Qc6c
 
+## 1.3  SCAMPER PPT
+docs/scamper mindmesh ppt (1).pptx
 
 # 2. Problem Discovery
 
