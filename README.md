@@ -32,7 +32,7 @@
 https://www.youtube.com/watch?v=37OpgQ1Qc6c
 
 ## 1.3  SCAMPER PPT
-[PPT link](https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/ff65ef6d90a9af9d03db10a5c8d29d0d9f067301/docs/scamper_%20mindmesh_%20ppt.pptx)
+[PPT link](https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/e62c00793618741bcbeed3320611c6efa03701b6/docs/SCAMPER_MindMesh.pptx)
 
 
 # 2. Problem Discovery
