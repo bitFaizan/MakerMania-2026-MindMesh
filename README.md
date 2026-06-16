@@ -56,22 +56,37 @@ Where did you conduct your observations?
 ### Activities
 
 What are users doing?
+Completing sensor-based missions and challenges.
+Exploring the house to find dark, warm, or magnetic locations.
+Solving puzzles, collecting rewards, and leveling up.
+Performing movement-based tasks like shaking, balancing, and staying still.
 
 ### Environment
 
 What conditions affect them?
+Indoor home environments (bedroom, living room, kitchen, etc.).
+Different lighting, temperature, and magnetic conditions.
+Safe spaces for movement and exploration.
 
 ### Interactions
 
 Who or what are they interacting with?
+The handheld game device (screen, buttons, LEDs, speaker).
+Built-in sensors (light, motion, temperature, magnetometer).
+Household objects and family members during multiplayer activities.
 
 ### Objects
 
 What tools or products are used?
+ESP32, TFT display, APDS9960, MPU6050, magnetometer, temperature sensor.
+Speaker, WS2812B LEDs, buttons, battery.
+Household items such as blankets, magnets, and warm objects.
 
 ### Users
 
 Who are the primary users?
+Children aged 6–11 years.
+Secondary users: parents and teachers who supervise or assist gameplay.
 
 ---
 
