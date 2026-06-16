@@ -149,7 +149,7 @@ Number of users interviewed: _5_____
 
 ## Problem Statement
 
-User __________ needs a way to __________ because __________.
+Childern needs a way to stay physically active and engaged through interactive indoor activities because traditional games and educational activities can become repetitive and less motivating over time.__.
 
 ---
 
