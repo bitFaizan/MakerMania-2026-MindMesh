@@ -109,15 +109,23 @@ Secondary users: parents and teachers who supervise or assist gameplay.
 
 ## 3.1 Interview Summary
 
-Number of users interviewed: ______
+Number of users interviewed: _5_____
 
 ## 3.2 Key Quotes
+1.children enjoy adventure and story-based missions more than educational tasks.
 
-1.
 
-2.
+2.Rewards, points, and level progression increase motivation.
 
-3.
+
+3.Random missions keep the game interesting.
+
+
+4.Visual and sound feedback make gameplay more engaging.
+
+
+5.Difficulty should increase gradually as players level up.
+
 
 ---
 
