@@ -221,6 +221,28 @@ List displays, actuators, software outputs.
 
 # 7. Technical Planning
 
+## Bill of Materials
+
+| Category | Component | Specification | Qty | Approx. ₹ | Link |
+|----------|-----------|---------------|----:|----------:|------|
+| **MCU** | ESP32-S3 Super Mini | N4R2 (4MB Flash + 2MB PSRAM) | 1 | 469 | https://hubtronics.in/esp32-s3-supermini-board |
+| **External Storage** | W25Q128 SPI Flash Module | 128 Mbit (16MB) | 1 | 120 | https://www.flyrobo.in/w25q128-128m-bit-flash-storage-module |
+| **Display** | ILI9341 SPI TFT Display | 2.4" 240×320 Color TFT | 1 | 668 | https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/ |
+| **Audio** | MAX98357A | I²S Digital Audio Amplifier | 1 | 134| https://hubtronics.in/max98357a-stereo-amplifier-module |
+| | Speaker | 8Ω 1W 28mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
+| **Sensors** | APDS9960 | Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
+| | MPU6050 | 3-Axis Accelerometer + Gyroscope | 1 | 170 | https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/  |
+| | QMC5883L | 3-Axis Magnetometer | 1 | 164 | https://www.flyrobo.in/gy-271-qmc5883l-3-axis-electronic-compass-module-magnetic-field-sensor |
+| | MLX90614 | Non-contact IR Temperature Sensor | 1 | 674 | https://robu.in/product/mlx90614-esf-non-contact-human-body-infrared-temperature-measurement-module/ |
+| **Lighting** | WS2812B LEDs | 20 × Individually Addressable RGB LEDs | 20 | 95 | https://hubtronics.in/ws2812b-5050-led |
+| **Haptics** | Coin Vibration Motor | 1030 ERM (10×3mm, 3V) | 1 | 30 | https://www.flyrobo.in/1030-3v-flat-mobile-phone-vibration-motor?tracking=ads |
+| **Power** | LiPo Battery | 3.7V 1000mAh | 1 | 380 | https://robu.in/product/wly394058-1000mah-3-7v-single-cell-rechargeable-lipo-battery/ |
+| | TP4056 | LiPo Charging Module with Protection | 1 | 45 | https://www.amazon.in/Charging-Lithium-Battery-Overcharge-Protection/dp/B0H2FGVLT7 |
+| | LDO | Low Dropout regulator 5v to 3.3v | 1 | 70 | https://evelta.com/7semi-5v-to-3-3v-1a-ldo-low-dropout-regulator-breakout-with-enable/ |
+| **User Input** | Large Push Button | 12×12mm Tactile | 1 | 30 | |
+| | Small Push Button | 6×6mm Tactile | 1 | 15 | |
+| **Power Control** | Slide Switch | Mini SPDT | 1 | 5 | https://rajivelectronics.com/product/ss12f44g5-on-off-spdt-1p2t-2-position-3-pin-pcb-panel-mini-vertical-slide-switch |
+
 ## Electronics
 
 | Component | Purpose |
