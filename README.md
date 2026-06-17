@@ -242,6 +242,9 @@ List displays, actuators, software outputs.
 | **User Input** | Large Push Button | 12×12mm Tactile | 1 | 30 | |
 | | Small Push Button | 6×6mm Tactile | 1 | 15 | |
 | **Power Control** | Slide Switch | Mini SPDT | 1 | 5 | https://rajivelectronics.com/product/ss12f44g5-on-off-spdt-1p2t-2-position-3-pin-pcb-panel-mini-vertical-slide-switch |
+| **Miscellaneous** | MOSFET | A03400 | 3 | 24 | https://robu.in/product/ao3400-xblw-30v-5-8a-34m%CF%894-5v5a-1-4w-700mv250ua-1-n-channel-sot-23-3l-mosfets-rohs/ |
+| | JST PH Connector | 2.0 2 pin | 2 | 10 | |
+
 
 ## Electronics
 
