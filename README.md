@@ -215,10 +215,11 @@ Additionally, the concept is technically feasible using affordable sensors and h
 Explain your solution.
 
 ---
+## System Architecture
+https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/7f59693fe44dfb7642426f4cc8876c6e7a04f7f5/images/pathfinder_system_architecture.svg
 
 ## Block Diagram
 
-Insert diagram here.
 
 ---
 
