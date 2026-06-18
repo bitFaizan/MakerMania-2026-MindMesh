@@ -149,7 +149,7 @@ Number of users interviewed: _5
 
 ## Problem Statement
 
-Childern needs a way to stay physically active and engaged through interactive indoor activities because traditional games and educational activities can become repetitive and less motivating over time.__.
+Children needs a way to stay physically active and engaged through interactive indoor activities because traditional games and educational activities can become repetitive and less motivating over time.__.
 
 ---
 
