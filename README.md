@@ -220,6 +220,7 @@ https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/7f59693fe44dfb7642426
 
 ## Block Diagram
 
+https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/d8038770b9b0a6f1e90658749bfeef002117fcc3/images/pathfinder_block_diagram_clean.png
 
 ---
 
