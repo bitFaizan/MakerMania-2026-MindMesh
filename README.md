@@ -192,22 +192,20 @@ Childern needs a way to stay physically active and engaged through interactive i
 Why was this concept chosen?
 
 This concept was chosen because it combines STEM learning, physical activity, and interactive gameplay into a single experience. Many children spend significant time on passive screen-based entertainment, which can reduce physical activity and engagement with their surroundings.
+
 The proposed device encourages children to:
 
 
-Explore their home environment.
+1. Explore their home environment.
 
+2. Learn scientific concepts such as light, temperature, motion, and magnetism through play.
 
-Learn scientific concepts such as light, temperature, motion, and magnetism through play.
+3. Stay physically active while completing missions.
 
+4. Remain engaged through rewards, levels, challenges, and storytelling.
 
-Stay physically active while completing missions.
+Additionally, the concept is technically feasible using affordable sensors and has the potential to provide a fun, educational, and reusable learning experience for children aged 6–14 years.
 
-
-Remain engaged through rewards, levels, challenges, and storytelling.
-
-
-Additionally, the concept is technically feasible using affordable sensors and has the potential to provide a fun, educational, and reusable learning experience for children aged 6–11 years.
 ---
 
 # 6. System Design
