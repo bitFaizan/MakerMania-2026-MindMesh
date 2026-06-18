@@ -246,7 +246,7 @@ List displays, actuators, software outputs.
 | **Audio** | MAX98357A | I²S Digital Audio Amplifier | 1 | 134| https://hubtronics.in/max98357a-stereo-amplifier-module |
 | | Speaker | 8Ω 1W 28mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
 | **Sensors** | APDS9960 | Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
-| | MPU6050 | 3-Axis Accelerometer + Gyroscope | 1 | 170 | https://robu.in/product/mpu-6050-gyro-sensor-2-accelerometer/  |
+| | MPU6500 | 3-Axis Accelerometer + Gyroscope | 1 | 170 | https://robu.in/product/mpu6500-gyroscope-accelerometer-digital-motion-processor-dmp-6-axis-motion-sensor-with-i2c-spi-interface/  |
 | | QMC5883L | 3-Axis Magnetometer | 1 | 164 | https://www.flyrobo.in/gy-271-qmc5883l-3-axis-electronic-compass-module-magnetic-field-sensor |
 | | MLX90614 | Non-contact IR Temperature Sensor | 1 | 674 | https://robu.in/product/mlx90614-esf-non-contact-human-body-infrared-temperature-measurement-module/ |
 | **Lighting** | WS2812B LEDs | 20 × Individually Addressable RGB LEDs | 20 | 95 | https://hubtronics.in/ws2812b-5050-led |
