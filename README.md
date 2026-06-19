@@ -253,7 +253,7 @@ List displays, actuators, software outputs.
 | | QMC5883L | 3-Axis Magnetometer | 1 | 164 | https://www.flyrobo.in/gy-271-qmc5883l-3-axis-electronic-compass-module-magnetic-field-sensor |
 | | MLX90614 | Non-contact IR Temperature Sensor | 1 | 674 | https://robu.in/product/mlx90614-esf-non-contact-human-body-infrared-temperature-measurement-module/ |
 | **Lighting** | WS2812B LEDs | 20 × Individually Addressable RGB LEDs | 20 | 95 | https://hubtronics.in/ws2812b-5050-led |
-| **Haptics** | Coin Vibration Motor | 1030 ERM (10×3mm, 3V) | 1 | 30 | https://www.flyrobo.in/1030-3v-flat-mobile-phone-vibration-motor?tracking=ads |
+| **Haptics** | Coin Vibration Motor | 1034 ERM (10×3.4mm, 3V) | 1 | 30 | https://www.flyrobo.in/1034-3v-flat-motor?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE_weY_bxNC5nEjj0xWWSxzWx&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTusDCopbeCECv82Od6AZetLfyB4-6Lixyd2sunzWefowDhXiV-SItxoC7TUQAvD_BwE |
 | **Power** | LiPo Battery | 3.7V 1000mAh | 1 | 380 | https://robu.in/product/wly394058-1000mah-3-7v-single-cell-rechargeable-lipo-battery/ |
 | | TP4056 | LiPo Charging Module with Protection | 1 | 45 | https://www.amazon.in/Charging-Lithium-Battery-Overcharge-Protection/dp/B0H2FGVLT7 |
 | | LDO | Low Dropout regulator 5v to 3.3v | 1 | 70 | https://evelta.com/7semi-5v-to-3-3v-1a-ldo-low-dropout-regulator-breakout-with-enable/ |
