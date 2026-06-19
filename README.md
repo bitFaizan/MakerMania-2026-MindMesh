@@ -249,6 +249,7 @@ List displays, actuators, software outputs.
 | | Speaker | 8Ω 1W 28mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
 | **Sensors** | APDS9960 | Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
 | | MPU6500 | 3-Axis Accelerometer + Gyroscope | 1 | 170 | https://robu.in/product/mpu6500-gyroscope-accelerometer-digital-motion-processor-dmp-6-axis-motion-sensor-with-i2c-spi-interface/  |
+| | MAX30102 |Heart rate & Sp02 | 1 |120|https://www.flyrobo.in/gy-max30100-pulse-oximeter-heart-rate-sensor-development-board?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE_weY_bxNC5nEjj0xWWSxzWx&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTtHxikMV1QpJ_Qa2RiY5fvUDgVDxP-I4UzZZ2vwzktsXwlzXjRVQ1hoC-ToQAvD_BwE  |
 | | QMC5883L | 3-Axis Magnetometer | 1 | 164 | https://www.flyrobo.in/gy-271-qmc5883l-3-axis-electronic-compass-module-magnetic-field-sensor |
 | | MLX90614 | Non-contact IR Temperature Sensor | 1 | 674 | https://robu.in/product/mlx90614-esf-non-contact-human-body-infrared-temperature-measurement-module/ |
 | **Lighting** | WS2812B LEDs | 20 × Individually Addressable RGB LEDs | 20 | 95 | https://hubtronics.in/ws2812b-5050-led |
