@@ -244,7 +244,7 @@ List displays, actuators, software outputs.
 |----------|-----------|---------------|----:|----------:|------|
 | **MCU** | ESP32-S3 Super Mini | N4R2 (4MB Flash + 2MB PSRAM) | 1 | 469 | https://hubtronics.in/esp32-s3-supermini-board |
 | **External Storage** | W25Q128 SPI Flash Module | 128 Mbit (16MB) | 1 | 120 | https://www.flyrobo.in/w25q128-128m-bit-flash-storage-module |
-| **Display** | ILI9341 SPI TFT Display | 2.4" 240×320 Color TFT | 1 | 668 | https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/ |
+| **Display** | ILI9341 SPI TFT Display | 1.8" 128x160 Color TFT | 1 | 294 | https://robocraze.com/products/1-8-inch-tft-lcd-module?variant=40194139095193&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22116884086&adgroupid=&keyword=&device=m&gad_source=1&gad_campaignid=22113249746&gbraid=0AAAAADgHQvbua7aG_WkYCTwxgxn5ZovKb&gclid=CjwKCAjw9NjRBhATEiwA_p2J8WH4ppD888B0LVwjfNiMKOFQ-X85lYHgbT1Ty4mDLfVd4O5kB8B9dhoCN80QAvD_BwE |
 | **Audio** | MAX98357A | I²S Digital Audio Amplifier | 1 | 134| https://hubtronics.in/max98357a-stereo-amplifier-module |
 | | Speaker | 8Ω 1W 28mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
 | **Sensors** | APDS9960 | Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
@@ -254,7 +254,7 @@ List displays, actuators, software outputs.
 | | MLX90614 | Non-contact IR Temperature Sensor | 1 | 674 | https://robu.in/product/mlx90614-esf-non-contact-human-body-infrared-temperature-measurement-module/ |
 | **Lighting** | WS2812B LEDs | 20 × Individually Addressable RGB LEDs | 20 | 95 | https://hubtronics.in/ws2812b-5050-led |
 | **Haptics** | Coin Vibration Motor | 1034 ERM (10×3.4mm, 3V) | 1 | 30 | https://www.flyrobo.in/1034-3v-flat-motor?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE_weY_bxNC5nEjj0xWWSxzWx&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTusDCopbeCECv82Od6AZetLfyB4-6Lixyd2sunzWefowDhXiV-SItxoC7TUQAvD_BwE |
-| **Power** | LiPo Battery | 3.7V 1000mAh | 1 | 380 | https://robu.in/product/wly394058-1000mah-3-7v-single-cell-rechargeable-lipo-battery/ |
+| **Power** | LiPo Battery /18650 Li-ion | 3.7V 1000mAh | 1 | 380 | https://robu.in/product/wly102050-1000mah-3-7v-single-cell-rechargeable-lipo-battery/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWcH1QsNu4yu5-7gAhiQl8WD_&gclid=CjwKCAjw9NjRBhATEiwA_p2J8aa8utVyPJU_Z3qiq0VIpvFHz8700kfJqL5RVB0Uj4qS8GCwLUXb4xoCAcwQAvD_BwE |
 | | TP4056 | LiPo Charging Module with Protection | 1 | 45 | https://www.amazon.in/Charging-Lithium-Battery-Overcharge-Protection/dp/B0H2FGVLT7 |
 | | LDO | Low Dropout regulator 5v to 3.3v | 1 | 70 | https://evelta.com/7semi-5v-to-3-3v-1a-ldo-low-dropout-regulator-breakout-with-enable/ |
 | **User Input** | Large Push Button | 12×12mm Tactile | 1 | 30 | |
