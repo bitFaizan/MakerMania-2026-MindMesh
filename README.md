@@ -179,11 +179,15 @@ Children needs a way to stay physically active and engaged through interactive i
 # 5. Solution Ideation
 
 ## Brainstormed Ideas
-
-| Idea | Advantages | Challenges |
-| ---- | ---------- | ---------- |
-|      |            |            |
-|      |            |            |
+| Idea                                                       | Advantages                                                                            | Challenges                                                   |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Mobile App-Based Educational Game                          | Easy to develop and distribute                                                        | High screen time, less physical activity                     |
+| Smart Toy with Basic Buttons and LEDs                      | Simple and low cost                                                                   | Limited interaction and learning opportunities               |
+| Gesture-Controlled Learning Device                         | Interactive and engaging                                                              | Requires additional sensors and complex programming          |
+| Outdoor Treasure Hunt System                               | Encourages exploration and teamwork                                                   | Difficult to use indoors and weather dependent               |
+| Sensor-Based Adventure Challenge Device (Selected Concept) | Promotes physical activity, learning, and problem-solving through real-world missions | Requires integration of multiple sensors and hardware design |
+| AR-Based Learning Game                                     | Highly immersive experience                                                           | Expensive hardware and complex development                   |
+| Wearable Adventure Band                                    | Portable and fun for children                                                         | Limited display and user interaction options                 |
 
 ---
 
