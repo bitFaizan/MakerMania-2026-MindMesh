@@ -295,17 +295,27 @@ Describe fabricated components.
 Description:Developed the first functional prototype of a handheld educational adventure device using an ESP32-S3. The prototype integrates motion sensing (MPU6500), compass navigation (QMC5883L), environmental sensing (DHT), vibration feedback, and a TFT display. A basic mission system was implemented where users complete interactive challenges such as shaking, orientation detection, temperature-based tasks, and direction-finding activities. The prototype focuses on validating core gameplay mechanics and sensor functionality before hardware miniaturization and PCB development.
 
 Lessons Learned:
+
 I²C sensor integration requires careful address management and bus testing.
+
 Early breadboard prototyping significantly reduces debugging time before PCB design.
+
 Motion-based activities using the MPU6500 provide engaging gameplay opportunities.
+
 Compass calibration is essential for accurate direction-based tasks.
+
 Using modular sensor breakout boards speeds up development and testing.
+
 TFT display readability and UI design greatly affect user experience.
+
 Power management must be considered early when using battery-powered devices.
+
 Iterative testing helped identify practical and fun mission ideas for children.
+
 Simple game mechanics are often more engaging than overly complex challenges.
+
 Designing around available components allows rapid prototype development and validation.
----
+
 
 ## Version 2
 
