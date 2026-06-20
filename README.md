@@ -248,7 +248,7 @@ List displays, actuators, software outputs.
 |----------|-----------|---------------|----:|----------:|------|
 | **MCU** | ESP32-S3 Super Mini | N4R2 (4MB Flash + 2MB PSRAM) | 1 | 469 | https://hubtronics.in/esp32-s3-supermini-board |
 | **External Storage** | W25Q128 SPI Flash Module | 128 Mbit (16MB) | 1 | 120 | https://www.flyrobo.in/w25q128-128m-bit-flash-storage-module |
-| **Display** | ST7735 SPI TFT Display | 1.8" 128x160 Color TFT | 1 | 294 | https://robocraze.com/products/1-8-inch-tft-lcd-module?variant=40194139095193&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22116884086&adgroupid=&keyword=&device=m&gad_source=1&gad_campaignid=22113249746&gbraid=0AAAAADgHQvbua7aG_WkYCTwxgxn5ZovKb&gclid=CjwKCAjw9NjRBhATEiwA_p2J8WH4ppD888B0LVwjfNiMKOFQ-X85lYHgbT1Ty4mDLfVd4O5kB8B9dhoCN80QAvD_BwE |
+| **Display** | SmartElex 1.69" TFT LCD Display | 240×280 SPI TFT LCD Display (ST7789V3) | 1 | 663 | https://robu.in/product/smartelex-1-69-inch-tft-lcd-display/ |
 | **Audio** | MAX98357A | I²S Digital Audio Amplifier | 1 | 134| https://hubtronics.in/max98357a-stereo-amplifier-module |
 | | Speaker | 8Ω 1W Oval 24mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
 | **Sensors** | APDS9960(Purple PCB only)| Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
