@@ -218,6 +218,33 @@ Additionally, the concept is technically feasible using affordable sensors and h
 
 Explain your solution.
 
+## 6. System Design
+
+### High-Level Description
+
+The proposed solution is a handheld adventure device that uses sensors to create interactive challenges for children. An ESP32 microcontroller processes data from the MPU6050 motion sensor, DHT11 temperature sensor, MQ gas sensor, and QMC5883L compass sensor. Missions and scores are displayed on a 16×2 LCD, while a coin vibration motor provides feedback.
+
+The device generates tasks such as shaking the device, finding a direction, detecting temperature changes, or monitoring air quality. When a task is completed, the user receives feedback, earns points, and progresses to higher levels.
+
+### Main Components
+
+* ESP32 Microcontroller
+* MPU6050 Motion Sensor
+* QMC5883L Compass Sensor
+* DHT11 Temperature Sensor
+* MQ Gas Sensor
+* JHD162A LCD Display
+* Coin Vibration Motor
+
+### Key Features
+
+* Random mission generation
+* Sensor-based challenges
+* Real-time feedback
+* Level progression system
+* Interactive learning experience
+
+
 ---
 ## System Architecture
 https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/7f59693fe44dfb7642426f4cc8876c6e7a04f7f5/images/pathfinder_system_architecture.svg
