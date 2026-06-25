@@ -275,7 +275,7 @@ List displays, actuators, software outputs.
 |----------|-----------|---------------|----:|----------:|------|
 | **MCU** | ESP32-S3 Super Mini | N4R2 (4MB Flash + 2MB PSRAM) | 1 | 469 | https://hubtronics.in/esp32-s3-supermini-board |
 | **External Storage** | W25Q128 SPI Flash Module | 128 Mbit (16MB) | 1 | 120 | https://www.flyrobo.in/w25q128-128m-bit-flash-storage-module |
-| **Display** | SmartElex 1.69" TFT LCD Display | 240×280 SPI TFT LCD Display (ST7789V3) | 1 | 663 | https://robu.in/product/smartelex-1-69-inch-tft-lcd-display/ |
+| **Display** | SmartElex 1.69" TFT LCD Display | 240×280 SPI TFT LCD Display (ST7789V3) | 2 | 663 | https://robu.in/product/smartelex-1-69-inch-tft-lcd-display/ |
 | **Audio** | MAX98357A | I²S Digital Audio Amplifier | 1 | 134| https://hubtronics.in/max98357a-stereo-amplifier-module |
 | | Speaker | 8Ω 1W Oval 24mm | 1 | 60 | https://probots.co.in/8-ohm-1w-2415-mm-oval-mini-audio-speaker.html |
 | **Sensors** | APDS9960(Purple PCB only)| Gesture + RGB + Ambient Light + Proximity | 1 | 247| https://robu.in/product/apds9960-rgb-gesture-sensor-detection-i2c-breakout-module/ |
