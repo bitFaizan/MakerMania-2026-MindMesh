@@ -255,15 +255,32 @@ https://github.com/bitFaizan/MakerMania-2026-MindMesh/blob/d8038770b9b0a6f1e9065
 
 ---
 
+
+
 ## Inputs
 
-List sensors, user inputs, data sources.
+The system collects data from the following inputs:
+
+* MPU6050 Motion Sensor – Detects movement, shaking, tilting, and orientation.
+* QMC5883L Compass Sensor – Provides direction and heading information.
+* DHT11 Sensor – Measures temperature and humidity.
+* MQ Sensor– Detects gas concentration and air quality.
+* Push Button(s) – Used for starting missions, navigating menus, and user interaction.
+* Game Data – Randomly generated missions and user progress information.
+
 
 ---
 
 ## Outputs
 
-List displays, actuators, software outputs.
+The system provides feedback and information through the following outputs:
+
+* JHD162A 16×2 LCD Display – Displays missions, instructions, scores, levels, and sensor readings.
+* Coin Vibration Motor – Provides haptic feedback for mission completion, alerts, and notifications.
+* Buzzer/Speaker (if used) – Generates sound effects and game notifications.
+* Game Status Messages – Displays mission success, failure, score updates, and level progression.
+* Sensor Data Output – Shows real-time values such as temperature, direction, motion, and air quality.
+
 
 ---
 
