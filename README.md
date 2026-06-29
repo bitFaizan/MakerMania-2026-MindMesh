@@ -385,10 +385,18 @@ Description:
 
 ## Testing Plan
 
-| Test | Success Criteria |
-| ---- | ---------------- |
-|      |                  |
-|      |                  |
+| Test                    | Success Criteria                                                      |
+| ----------------------- | --------------------------------------------------------------------- |
+| MPU6050 Motion Test     | Correctly detects shake, tilt, and movement.                          |
+| QMC5883L Compass Test   | Displays accurate direction (North, South, East, West).               |
+| DHT11 Sensor Test       | Correctly displays temperature and humidity values.                   |
+| MQ Sensor Test          | Detects changes in gas/smoke levels.                                  |
+| LCD Display Test        | Displays missions, scores, and messages correctly.                    |
+| Vibration Motor Test    | Vibrates when a mission is completed or an alert is triggered.        |
+| Mission Generation Test | Random missions are generated without errors.                         |
+| Mission Completion Test | Correctly identifies completed tasks and awards points.               |
+| User Interface Test     | Buttons/menu respond correctly to user input.                         |
+| System Integration Test | All components work together without crashes or communication errors. |
 
 ---
 
