@@ -426,6 +426,15 @@ Description:
 
 ## What Makes This Different?
 
+Screen-light learning  – Children interact with the real world instead of spending long periods on a phone or tablet.
+Multi-sensor challenges – Uses motion, compass, temperature, and air-quality sensors to create unique missions.
+Real-world exploration  – Encourages children to move around, observe their surroundings, and solve physical challenges.
+Randomized gameplay – Missions are generated dynamically, making each play session different.
+Gamified learning – Includes levels, points, rewards, and progression to keep children engaged.
+Affordable and modular – Built using commonly available components, making it easy to upgrade with additional sensors and features.
+Portable handheld device – Can be used at home, in classrooms, or outdoors without needing extra equipment.
+
+
 ---
 
 ## Innovation Score
