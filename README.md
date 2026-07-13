@@ -412,7 +412,15 @@ Description:
 
 ## Existing Solutions
 
-List competing products.
+| Product                           | Description                                                                                                                    | Limitation                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| **Osmo Learning Kit**             | Interactive educational games using a tablet.                                                                                  | Requires a tablet and increases screen time.                                |
+| **LEGO SPIKE Essential**          | Robotics and coding kit for children.                                                                                          | Focuses mainly on programming and is relatively expensive.                  |
+| **Sphero BOLT**                   | Programmable robotic ball for STEM learning.                                                                                   | Limited real-world exploration and environmental interaction.               |
+| **Nintendo Labo**                 | DIY cardboard kits with interactive games.                                                                                     | Requires a Nintendo Switch and has limited educational sensing.             |
+| **Learning Resources Botley 2.0** | Screen-free coding robot for kids.                                                                                             | Primarily teaches coding; fewer environmental challenges.                   |
+| **QuestBox (Proposed Solution)**  | Sensor-based handheld device that creates real-world missions using motion, direction, temperature, and environmental sensing. | Prototype under development with scope for additional sensors and features. |
+
 
 ---
 
